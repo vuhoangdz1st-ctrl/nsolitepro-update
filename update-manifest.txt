@@ -1,0 +1,6 @@
+version=1.2.0.0
+url=https://raw.githubusercontent.com/vuhoangdz1st-ctrl/nsolitepro-update/main/NSOLITEPRO.exe
+sha256=8be03bed2a1b1002b8bc2077d006ed69965c4d511e486b5d0a09a0e34f106c15
+pk_url=https://raw.githubusercontent.com/vuhoangdz1st-ctrl/nsolitepro-update/main/NSOLITEPRO.PK.dll
+pk_sha256=0ef8921b03207ab0e407c313ed2aa3336bb61901836bca04ee976aaef7645a06
+notes=Phiên bản PK / Train / TATL / FPS v1.2.0.\nĐây là bản mới nhất hiện tại.
